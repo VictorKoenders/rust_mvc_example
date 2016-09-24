@@ -1,0 +1,8 @@
+target
+.idea
+Cargo.lock
+src/controllers/mod.rs
+src/run.rs
+src/views/index.rs
+src/views/index2.rs
+src/views/mod.rs

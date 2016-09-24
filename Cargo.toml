@@ -1,0 +1,11 @@
+[package]
+name = "rust_mvc_example"
+version = "0.1.0"
+authors = ["Victor Koenders <victor.koenders@gmail.com>"]
+build = "src/build.rs"
+
+[build-dependencies]
+rust_mvc = { git = "https://github.com/VictorKoenders/rust_mvc" }
+
+[dependencies]
+rust_mvc = { git = "https://github.com/VictorKoenders/rust_mvc" }
